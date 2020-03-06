@@ -15,7 +15,7 @@ fi
 }
 
 run_bot() {
-    (nohup python ${path}/teletor.py &)
+    (. ${path}/venv/bin/activate && nohup python ${path}/teletor.py &)
 }
 
 start
