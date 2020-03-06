@@ -1,20 +1,20 @@
 telegram_bot:
   tg_endpoint: 'https://api.telegram.org'
-  token: ''
+  token: '1023500532:AAFshWalF0XFlvvI6dEoZyro5Ddrp_ckh9k'
 
 auth_cfg:
   id:
-  username: ''
-  first_name: ''
-  last_name: ''
+  username: 'rana'
+  first_name: 'abhishek'
+  last_name: 'rana'
 
 torrents:
   transmission_ip: 'http://127.0.0.1'
   transmission_port: 9091
   files_dir: 'files'
   t_file_magnet: 'config/torrent.pcl'
-  t_username: ''
-  t_password: ''
+  t_username: 'meh'
+  t_password: '123@letsgo'
 
 # Favourites folders
 # i.e. F1 - alias that will be used in set command
